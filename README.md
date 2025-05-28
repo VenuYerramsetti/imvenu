@@ -87,5 +87,11 @@ My recent focus has been on upskilling in machine learning, AI, and advanced ana
 - **Locations:** Germany, Netherlands, Canada, UK, or remote
 
 Let’s connect!  
-📧 venumadhuri.y@gmail.com | [LinkedIn] (https://www.linkedin.com/in/venu-madhuri-yerramsetti-349057aa/)
+📧 venumadhuri.y@gmail.com | ---
+
+## 🔗 Connect with Me
+
+[LinkedIn Profile](https://www.linkedin.com/in/venu-madhuri-yerramsetti-349057aa/) | [GitHub Profile](https://github.com/VenuYerramsetti)
+
+---
 ![image](https://github.com/user-attachments/assets/831bb6d1-a706-409e-a08d-3b77a4f625f6)
