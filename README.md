@@ -1,97 +1,127 @@
-# imvenu
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![AI](https://img.shields.io/badge/Focus-AI%20%26%20LLM-green)
+![Status](https://img.shields.io/badge/Open%20to-PhD%20%26%20AI%20Roles-orange)
+
+
 # 👋 Hi, I'm Venu Madhuri Yerramsetti
 
-🎯 **Data Engineer | Aspiring Data Scientist | Finance & Energy Sector Experience**  
-📍 Currently based in India | 🌍 Open to relocation (Germany, Netherlands, Canada, France, UK)  
-📈 Passionate about using data to solve real-world problems in finance, energy, and operations.
+🚀 AI & Machine Learning Engineer | Generative AI, NLP & Time Series  
+🧠 Focus: Responsible AI, AI Ethics, and Decision Intelligence Systems  
+🎓 MSc Artificial Intelligence & Data Science (University of Hull, UK)  
 
 ---
 
-## 🧠 About Me
+## 🧭 About Me
 
-I am a data professional with 6+ years of experience spanning:
-- **ETL & data pipeline development**
-- **Data analysis & visualisation** (Power BI, Tableau, QlikView)
-- **Machine Learning modelling** (time series, forecasting, classification)
-- **Cloud platforms**: Azure, AWS (basic), GCP (basic)
-- **Domains**: Finance, Trading, Energy, Higher Education
+I design and build **end-to-end AI systems** that combine:
 
-My recent focus has been on upskilling in machine learning, AI, and advanced analytics, building a portfolio of real-world projects using Python, SQL, and open data. I thrive in collaborative, multicultural teams and am eager to drive innovation in dynamic data environments.
+- 📊 Time series forecasting  
+- 🤖 Machine learning & deep learning  
+- 🧠 Large Language Models (LLMs)  
+- ⚖️ Responsible AI principles (fairness, trust, explainability)
+
+My work focuses on **bridging data → predictions → actionable decisions**, particularly in domains like healthcare, energy, and digital trust.
+
+I am actively exploring **PhD opportunities in Responsible AI / AI Ethics**, while also open to AI/ML engineering roles.
+
+---
+
+## 🔬 Key Projects
+
+### 🧠 Pharmacy Demand Forecasting + LLM Decision System
+👉 Hybrid ML + LLM pipeline for operational decision-making  
+
+- Built forecasting models (Prophet, SARIMA, XGBoost)
+- Engineered time-series features (lags, rolling stats, seasonality)
+- Fine-tuned GPT-2 using:
+  - Supervised Fine-Tuning (SFT)
+  - Reinforcement Learning (RLHF / DPO)
+- Generated structured business recommendations
+
+🔗 https://github.com/VenuYerramsetti/pharmacy-demand-llm
+
+---
+
+### ⚖️ AI Ethics: Generational Trust in Synthetic Media
+👉 Research on trust, deepfakes, and AI-generated content  
+
+- Analyzed generational vulnerability to AI-generated media
+- Proposed responsible AI frameworks (technical + policy)
+- Includes research paper + analysis notebook
+
+🔗 https://github.com/VenuYerramsetti/ai-ethics-generational-trust
+
+---
+
+### ⚡ Energy Consumption Forecasting (Azure ML)
+- ARIMA-based forecasting pipeline
+- Deployed on Azure ML
+- Power BI dashboard for insights
+
+---
+
+### 📊 Retail ETL Pipeline + BI Dashboard
+- Built full ETL pipeline (Python + SQL + SQLite)
+- Automated data ingestion and transformation
+- Developed interactive Power BI dashboards
+
+---
+
+### 📈 Stock Forecasting App (Streamlit)
+- Interactive forecasting using Prophet
+- Integrated Yahoo Finance API
+- Visualised trends using Plotly
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, Java, C++  
-- **Visualisation:** Power BI, Tableau, QlikView  
-- **ML/Analytics:** Pandas, Scikit-learn, Time Series (ARIMA, Prophet), Classification, Regression  
-- **Cloud:** Azure, AWS (basic), GCP (basic)  
-- **Databases:** SQL Server, MySQL, Postgres  
-- **Other:** Jupyter, Git, Jira, SharePoint, Flask
+**AI / ML**
+- Machine Learning, Deep Learning, NLP
+- Transformers, GPT-2, Hugging Face
+- Time Series: ARIMA, Prophet, XGBoost
+
+**Languages**
+- Python, SQL
+
+**Data & Analytics**
+- Pandas, NumPy, Scikit-learn
+- Power BI, Plotly, Matplotlib
+
+**Cloud & Tools**
+- Azure ML, Git, Jupyter, Flask
 
 ---
 
-## 📂 Portfolio Projects
+## 🎯 Research Interests
 
-- 👨‍💻 [Stock Price Forecasting with Facebook Prophet](#)  
-- 📊 [Customer Complaint NLP Classifier](#)  
-- 🔌 [Energy Consumption Power BI Dashboard](#)  
-- 🎓 [University Admission ML Predictor](#)  
-- 📦 [Data Pipeline (ETL) with Python & SQL](#)  
-
-> More coming soon, building a strong GitHub for June job interviews!
+- Responsible AI & AI Governance  
+- Explainable AI (XAI)  
+- Trustworthy AI systems  
+- AI in healthcare & decision systems  
+- Human-AI interaction  
 
 ---
 
 ## 🏆 Achievements
 
-- **FY21 Top Talent Award** – Virtusa Consulting Services Pvt Ltd
-- **Star Performer Award** – Virtusa Consulting Services Pvt Ltd
-- **PRATHIBA Award for University Toppers** – Government of Andhra Pradesh
+- 🥇 FY21 Top Talent – Virtusa  
+- 🥇 PRATHIBA Award – Govt of Andhra Pradesh  
 
 ---
 
-## 📜 Certifications
+## 🌍 Open To
 
-- Data Analytics using Power BI – Skillto  
-- Data Science and Machine Learning with Python – Radical Technologies  
-- Data Analytics using SQL & Tableau – Skillto
-- Professional Financial Accounting - London School of Business Administration
-
----
-
-## 📄 Education
-
-- **MSc, Artificial Intelligence and Data Science** – University of Hull, UK  
-- **BTech, Computer Science and Engineering** – JNTU Kakinada, India
+- AI / ML Engineer roles  
+- Generative AI / NLP roles  
+- PhD opportunities in Responsible AI / AI Ethics  
 
 ---
 
-## 🌐 Languages
+## 🔗 Connect
 
-- **English:** Full professional proficiency  
-- **Hindi:** Full professional proficiency  
-- **Telugu:** Full professional proficiency  
-- **Urdu:** Spoken only  
-- **French:** Intermediate (learning)  
-- **Dutch:** Beginner (learning)  
-- **German:** Beginner (learning)  
-- **Korean:** Beginner (learning)
+- 💼 LinkedIn: https://www.linkedin.com/in/venu-madhuri-yerramsetti-349057aa  
+- 💻 GitHub: https://github.com/VenuYerramsetti  
+- 📧 Email: venumadhuri.y@gmail.com  
 
 ---
-
-## 💼 Open to Opportunities
-
-- **Actively seeking:** Data Science / Analytics / Engineering roles
-- **Looking for:** Companies open to visa sponsorship  
-- **Locations:** Germany, Netherlands, Canada, UK, or remote
-
-Let’s connect!  
-📧 venumadhuri.y@gmail.com | ---
-
-## 🔗 Connect with Me
-
-[LinkedIn Profile](https://www.linkedin.com/in/venu-madhuri-yerramsetti-349057aa/) | [GitHub Profile](https://github.com/VenuYerramsetti)
-
----
-![image](https://github.com/user-attachments/assets/831bb6d1-a706-409e-a08d-3b77a4f625f6)
