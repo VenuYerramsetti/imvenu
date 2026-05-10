@@ -5,8 +5,8 @@
 
 # 👋 Hi, I'm Venu Madhuri Yerramsetti
 
-🚀 AI & Machine Learning Engineer | Generative AI, NLP & Time Series  
-🧠 Focus: Responsible AI, AI Ethics, and Decision Intelligence Systems  
+🚀 AI Engineer & Researcher focused on Trustworthy AI, Explainable AI, Healthcare AI, and Generative AI Systems 
+🧠 Research Interests: Responsible AI, Explainable AI (XAI), Clinical AI Reliability, AI Ethics, and Human-Centered AI Systems 
 🎓 MSc Artificial Intelligence & Data Science (University of Hull, UK)  
 
 ---
