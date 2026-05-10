@@ -1,13 +1,15 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![AI](https://img.shields.io/badge/Focus-AI%20%26%20LLM-green)
+![AI](https://img.shields.io/badge/Focus-Trustworthy%20AI-green)
+![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-red)
 ![Status](https://img.shields.io/badge/Open%20to-PhD%20%26%20AI%20Roles-orange)
-
 
 # 👋 Hi, I'm Venu Madhuri Yerramsetti
 
-🚀 AI Engineer & Researcher focused on Trustworthy AI, Explainable AI, Healthcare AI, and Generative AI Systems 
-🧠 Research Interests: Responsible AI, Explainable AI (XAI), Clinical AI Reliability, AI Ethics, and Human-Centered AI Systems 
-🎓 MSc Artificial Intelligence & Data Science (University of Hull, UK)  
+🚀 AI Engineer & Researcher focused on Trustworthy AI, Explainable AI, Healthcare AI, and Generative AI Systems  
+
+🧠 Research Interests: Responsible AI, Explainable AI (XAI), Clinical AI Reliability, AI Ethics, and Human-Centered AI Systems  
+
+🎓 MSc Artificial Intelligence & Data Science — University of Hull, UK  
 
 ---
 
@@ -15,113 +17,230 @@
 
 I design and build **end-to-end AI systems** that combine:
 
-- 📊 Time series forecasting  
-- 🤖 Machine learning & deep learning  
+- 📊 Time Series Forecasting  
+- 🤖 Machine Learning & Deep Learning  
 - 🧠 Large Language Models (LLMs)  
-- ⚖️ Responsible AI principles (fairness, trust, explainability)
+- ⚖️ Responsible AI Principles (fairness, trust, explainability)
 
-My work focuses on **bridging data → predictions → actionable decisions**, particularly in domains like healthcare, energy, and digital trust.
+My work focuses on bridging:
 
-I am actively exploring **PhD opportunities in Responsible AI / AI Ethics**, while also open to AI/ML engineering roles.
+**data → predictions → interpretable decision support systems**
+
+with applications across:
+
+- Healthcare AI
+- Forecasting Systems
+- Clinical Reliability
+- Decision Intelligence
+- Digital Trust
+
+I am particularly interested in developing **trustworthy AI systems** that are not only accurate, but also transparent, interpretable, and aligned with human-centered values.
+
+Currently exploring:
+- PhD opportunities in Responsible AI / AI Ethics
+- AI/ML Engineering roles
+- Research collaborations in healthcare AI and trustworthy AI systems
 
 ---
 
-## 🔬 Key Projects
+# 🔬 Key Projects
 
-### 🧠 Pharmacy Demand Forecasting + LLM Decision System
-👉 Hybrid ML + LLM pipeline for operational decision-making  
+## 🏥 Clinical AI Reliability: Explainable Skin Lesion Classification
+👉 Explainable deep learning framework for trustworthy healthcare AI
 
-- Built forecasting models (Prophet, SARIMA, XGBoost)
-- Engineered time-series features (lags, rolling stats, seasonality)
+- Developed multiclass skin lesion classification pipeline using HAM10000
+- Implemented transfer learning with ResNet18 and partial fine-tuning
+- Applied weighted optimization for imbalanced medical datasets
+- Integrated Grad-CAM explainability for interpretable predictions
+- Investigated reliability, transparency, and clinical trust in AI systems
+
+### Research Areas
+- Healthcare AI
+- Explainable AI (XAI)
+- Clinical Reliability
+- Deep Learning
+- Computer Vision
+- Responsible AI
+
+🔗 Repository:  
+https://github.com/VenuYerramsetti/clinical-ai-reliability
+
+---
+
+## 🧠 Pharmacy Demand Forecasting + LLM Decision System
+👉 Hybrid ML + LLM pipeline for operational decision-making
+
+- Built forecasting models using Prophet, SARIMA, and XGBoost
+- Engineered time-series features:
+  - lag variables
+  - rolling statistics
+  - seasonality patterns
 - Fine-tuned GPT-2 using:
   - Supervised Fine-Tuning (SFT)
-  - Reinforcement Learning (RLHF / DPO)
-- Generated structured business recommendations
+  - Reinforcement Learning approaches (RLHF / DPO)
+- Generated structured business recommendations from forecasting outputs
 
-🔗 https://github.com/VenuYerramsetti/pharmacy-demand-llm
+### Research Areas
+- Generative AI
+- Forecasting
+- NLP
+- Decision Intelligence
+- Time Series AI
+
+🔗 Repository:  
+https://github.com/VenuYerramsetti/pharmacy-demand-llm
 
 ---
 
-### ⚖️ AI Ethics: Generational Trust in Synthetic Media
-👉 Research on trust, deepfakes, and AI-generated content  
+## ⚖️ AI Ethics: Generational Trust in Synthetic Media
+👉 Research on trust, deepfakes, and AI-generated content
 
 - Analyzed generational vulnerability to AI-generated media
-- Proposed responsible AI frameworks (technical + policy)
-- Includes research paper + analysis notebook
+- Explored misinformation risks associated with synthetic media
+- Proposed responsible AI frameworks combining technical and policy perspectives
+- Included research paper and analytical notebook
 
-🔗 https://github.com/VenuYerramsetti/ai-ethics-generational-trust
+### Research Areas
+- AI Ethics
+- Responsible AI
+- Digital Trust
+- Synthetic Media
+- Human-AI Interaction
+
+🔗 Repository:  
+https://github.com/VenuYerramsetti/ai-ethics-generational-trust
 
 ---
 
-### ⚡ Energy Consumption Forecasting (Azure ML)
-- ARIMA-based forecasting pipeline
-- Deployed on Azure ML
-- Power BI dashboard for insights
+## ⚡ Energy Consumption Forecasting (Azure ML)
+
+- Developed ARIMA-based forecasting pipeline
+- Deployed workflows on Azure ML
+- Created Power BI dashboards for operational insights
+
+### Technologies
+- Azure ML
+- Time Series Forecasting
+- Power BI
+- Python
 
 ---
 
-### 📊 Retail ETL Pipeline + BI Dashboard
-- Built full ETL pipeline (Python + SQL + SQLite)
-- Automated data ingestion and transformation
+## 📊 Retail ETL Pipeline + BI Dashboard
+
+- Built complete ETL workflow using Python, SQL, and SQLite
+- Automated ingestion and transformation pipelines
 - Developed interactive Power BI dashboards
 
+### Technologies
+- SQL
+- Python
+- ETL
+- Power BI
+
 ---
 
-### 📈 Stock Forecasting App (Streamlit)
-- Interactive forecasting using Prophet
+## 📈 Stock Forecasting App (Streamlit)
+
+- Built interactive forecasting application using Prophet
 - Integrated Yahoo Finance API
-- Visualised trends using Plotly
+- Visualized trends and predictions with Plotly
+
+### Technologies
+- Streamlit
+- Prophet
+- Plotly
+- Financial Forecasting
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**AI / ML**
-- Machine Learning, Deep Learning, NLP
-- Transformers, GPT-2, Hugging Face
-- Time Series: ARIMA, Prophet, XGBoost
+## AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Explainable AI (XAI)
+- Transfer Learning
+- Neural Networks
 
-**Languages**
-- Python, SQL
+## Generative AI
+- Transformers
+- GPT-2
+- Hugging Face
+- LLM Fine-Tuning
+- RLHF / DPO
 
-**Data & Analytics**
-- Pandas, NumPy, Scikit-learn
-- Power BI, Plotly, Matplotlib
+## Time Series Forecasting
+- ARIMA
+- SARIMA
+- Prophet
+- XGBoost
 
-**Cloud & Tools**
-- Azure ML, Git, Jupyter, Flask
+## Data & Analytics
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Plotly
+- Power BI
+
+## Cloud & Tools
+- Azure ML
+- Git
+- Jupyter
+- Flask
+
+## Languages
+- Python
+- SQL
 
 ---
 
-## 🎯 Research Interests
+# 🎯 Research Interests
 
 - Responsible AI & AI Governance  
 - Explainable AI (XAI)  
-- Trustworthy AI systems  
-- AI in healthcare & decision systems  
-- Human-AI interaction  
+- Trustworthy AI Systems  
+- AI in Healthcare  
+- Clinical AI Reliability  
+- Human-AI Interaction  
+- Healthcare Decision Support Systems  
+- AI Ethics & Transparency  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🥇 FY21 Top Talent – Virtusa  
-- 🥇 PRATHIBA Award – Govt of Andhra Pradesh  
+- 🥇 FY21 Top Talent — Virtusa  
+- 🥇 PRATHIBA Award — Government of Andhra Pradesh  
 
 ---
 
-## 🌍 Open To
+# 🌍 Open To
 
 - AI / ML Engineer roles  
-- Generative AI / NLP roles  
-- PhD opportunities in Responsible AI / AI Ethics  
+- Generative AI & NLP roles  
+- Research collaborations  
+- PhD opportunities in:
+  - Responsible AI
+  - Explainable AI
+  - Healthcare AI
+  - AI Ethics
 
 ---
 
-## 🔗 Connect
+# 🔗 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/venu-madhuri-yerramsetti-349057aa  
-- 💻 GitHub: https://github.com/VenuYerramsetti  
-- 📧 Email: venumadhuri.y@gmail.com  
+💼 LinkedIn  
+https://www.linkedin.com/in/venu-madhuri-yerramsetti-349057aa
+
+💻 GitHub  
+https://github.com/VenuYerramsetti
+
+📧 Email  
+venumadhuri.y@gmail.com
 
 ---
+`
